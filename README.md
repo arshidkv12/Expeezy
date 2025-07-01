@@ -14,6 +14,9 @@
 
 ---
 
+![Expeezy UI](./screenshot.png)
+
+
 ## 🛠️ Tech Stack
 
 - Laravel
